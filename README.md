@@ -1,15 +1,17 @@
-# Short resume of tasks done
+# RTS - Project (Multiplayer) 
 
--Design and implement UI and menus.
+# Game in development. Testable build at release
 
--Implemented SFX and VFX for actions in game.
+○ Design and implement UI and menus.
 
--Developed the data driven systems for match and instances settings.
+○ Implemented SFX and VFX for actions in game.
 
--Created a multiplayer lobby with matchmaking and chat messaging.
+○ Developed the data driven systems for match and instances settings.
 
--Build the central network system for resource management and object authority.
+○ Created a multiplayer lobby with matchmaking and chat messaging.
 
--Optimized network performance by locally simulating vfx through Object Pooling.
+○ Build the central network system for resource management and object authority.
 
--Kept core design patterns such a DDD and MVP to ensure system decoupling and testability.
+○ Optimized network performance by locally simulating vfx through Object Pooling.
+
+○ Kept core design patterns such a DDD and MVP to ensure system decoupling and testability.
