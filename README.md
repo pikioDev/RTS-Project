@@ -1,4 +1,4 @@
-# RTS - Project (Multiplayer) 
+# RTS Project - Multiplayer - [NetCode for GameObjects]
 
 # Game in development. Testable build at release
 
